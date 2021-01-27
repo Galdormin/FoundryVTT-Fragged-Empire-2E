@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate",
+  "name": "fe2",
   "version": "1.0.0",
-  "description": "CSS compiler for the Boilerplate system",
+  "description": "CSS compiler for the Fragged Empire 2nd Edition system",
   "scripts": {
     "build": "gulp",
     "compile": "gulp css",
