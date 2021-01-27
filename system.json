@@ -1,14 +1,14 @@
 {
   "name": "fe2",
-  "title": "Boilerplate",
-  "description": "The Boilerplate system for FoundryVTT!",
-  "version": "1.0.4",
+  "title": "Fragged Empire 2nd Edition",
+  "description": "Fragged Empire 2nd Edition system for FoundryVTT!",
+  "version": "0.0.1",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.9",
   "templateVersion": 2,
-  "author": "John Doe",
-  "esmodules": ["module/boilerplate.js"],
-  "styles": ["css/boilerplate.css"],
+  "author": "Galdormin",
+  "esmodules": ["module/fe2.js"],
+  "styles": ["css/fe2.css"],
   "scripts": [],
   "packs": [],
   "languages": [
@@ -22,8 +22,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/Galdormin/FoundryVTT-Fragged-Empire-2e",
+  "manifest": "https://raw.githubusercontent.com/Galdormin/FoundryVTT-Fragged-Empire-2e/main/system.json",
+  "download": "https://github.com/Galdormin/FoundryVTT-Fragged-Empire-2e/archive/main.zip",
   "license": "LICENSE.txt"
 }
